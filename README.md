@@ -1,2 +1,2 @@
 # Loan-Eligibility-Prediction
-The objective of this program is to automate the loan eligibility process based on customer details. We have a dataset that includes information such as Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History, and more. 
+Developed a machine learning pipeline to predict loan approval outcomes using the Analytics Vidhya Loan Prediction dataset. Implemented end-to-end preprocessing (encoding, scaling, imputation), compared KNN, Naive Bayes, and SVM classifiers, performed single-feature analysis to identify Credit_History as the strongest predictor, and evaluated model performance using accuracy, precision, and recall to select the most effective approach.
